@@ -1,0 +1,22 @@
+{
+    "id": 1234,
+    "stops": [
+        {
+            "lat": 22.344674, "lng": 114.124651
+        },
+        {
+            "lat": 22.375384, "lng": 114.182446
+        },
+        {
+            "lat": 22.385669, "lng": 114.186962
+        }
+    ],
+    "drivingDistancesInMeters": [ 2300, 1640],
+    "fare": {
+        "amount": "130.00",
+        "currency": "HKD"
+    },
+    "status": "ASSIGNING",
+    "createdTime": "2018-09-01T14:47:23.000Z",
+    "orderDateTime": "2018-09-03T13:00:00.000Z"
+}

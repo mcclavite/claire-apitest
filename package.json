@@ -1,0 +1,11 @@
+{
+  "name": "claire-apitest",
+  "version": "1.0.0",
+  "description": "claire api testing",
+  "main": "clairetest.js",
+  "scripts": {
+    "test": "mocha clairetest.js"
+  },
+  "author": "claire clavite",
+  "license": "ISC"
+}
